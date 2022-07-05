@@ -19,7 +19,7 @@ public class KataController {
     }
 
     @PostMapping
-    public Kata save(Kata kata){
+    public Kata save(@RequestBody Kata kata){
         return kataService.save(kata);
     }
 
