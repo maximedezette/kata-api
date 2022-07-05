@@ -16,7 +16,7 @@ public class KataService {
     private final KataRepository kataRepository;
 
     @Autowired
-    public KataService(KataRepository kataRepository, ObjectMapper objectMapper) {
+    public KataService(KataRepository kataRepository) {
         this.kataRepository = kataRepository;
     }
 
