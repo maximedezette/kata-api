@@ -1,3 +1,5 @@
+package cucumber.configurations;
+
 import com.aperotech.AperotechApplication;
 import io.cucumber.spring.CucumberContextConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
