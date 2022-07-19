@@ -21,7 +21,7 @@ import java.util.List;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-public class KataStepdefs {
+public class KataStepDefs {
 
     private static Response response;
 

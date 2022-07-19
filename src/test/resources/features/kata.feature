@@ -1,4 +1,4 @@
-Feature: The kata can be retrieved
+Feature: Adding a Kata to the catalog
 
   Scenario: A user publish a new Kata
     Given A user publish a new Kata named AperoTech
